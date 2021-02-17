@@ -7,5 +7,5 @@
 	"crontab": "0 * * * *",
 	"backupDir": "/home/user/data",
 	"buildName": "mariadb-backup",
-	"buildVersion": "1.0.0"
+	"buildVersion": "latest"
 }
